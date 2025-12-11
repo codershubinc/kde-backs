@@ -1,0 +1,12 @@
+Plasma themes:
+colors
+dialogs
+JuxPlasma
+metadata.json
+plasmarc
+weather
+widgets
+
+Icon themes:
+hicolor
+YAMIS

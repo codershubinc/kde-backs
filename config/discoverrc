@@ -1,0 +1,5 @@
+[FlatpakSources]
+Sources=kdenlive-nightly
+
+[Software]
+UseOfflineUpdates=true

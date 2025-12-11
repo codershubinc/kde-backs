@@ -1,0 +1,4 @@
+[General]
+Certificate=/home/swap/.local/share/krdpserver/krdp.crt
+CertificateKey=/home/swap/.local/share/krdpserver/krdp.key
+SystemUserEnabled=true

@@ -1,0 +1,14 @@
+[Applications][brave-browser]
+Seen=true
+
+[Applications][code-insiders]
+Seen=true
+
+[Applications][com.spotify.Client]
+ShowPopups=false
+
+[Applications][org.gnome.Nautilus]
+Seen=true
+
+[Applications][org.gnome.baobab]
+Seen=true
